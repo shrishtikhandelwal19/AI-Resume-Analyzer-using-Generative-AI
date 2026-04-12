@@ -4,17 +4,27 @@ Introduction
 
 Developed an advanced AI application that leverages Retrieval-Augmented Generation (RAG), Large Language Models (LLM), and OpenAI for comprehensive resume analysis. It excels at summarizing the resume, evaluating strengths, identifying weaknesses, and offering personalized improvement suggestions while also recommending the perfect job titles. Additionally, it seamlessly employs Selenium to extract vital LinkedIn data, including company names, job titles, locations, job URLs, and detailed job descriptions. This application simplifies the job-seeking journey by equipping users with comprehensive insights to elevate their career opportunities.s
 
+
 Key Technologies and Skills
 
 Python
+
 NumPy
+
 Pandas
+
 LangChain
+
 Large Language Model (LLM)
+
 Retrieval-Augmented Generation (RAG)
+
 OpenAI
+
 Hugging Face
-Streamlit
+
+Streamlit 
+
 
 Summary: Resume Analyzer AI provides a quick, comprehensive overview of resumes, emphasizing qualifications, key experience, skills, projects, and achievements. Users can swiftly grasp profiles, enhancing review efficiency and insight.
 
